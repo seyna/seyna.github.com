@@ -3,7 +3,7 @@
 # ===============
 AUTHOR = 'Seyna'
 DEFAULT_CATEGORY = 'blog'
-SITENAME = 'seyna.github.com'
+SITENAME = 'Seyna blog'
 SITEURL = 'http://seyna.github.com'
 SITE_URL = SITEURL
 STATIC_PATHS = ['images', ]
