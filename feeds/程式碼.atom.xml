@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Seyna blog</title><link href="http://seyna.github.com/" rel="alternate"></link><link href="http://seyna.github.com/feeds/%E7%A8%8B%E5%BC%8F%E7%A2%BC.atom.xml" rel="self"></link><id>http://seyna.github.com/</id><updated>2012-12-15T00:00:00+08:00</updated><entry><title>Hello code</title><link href="http://seyna.github.com/2012/12/hello-code.html" rel="alternate"></link><updated>2012-12-15T00:00:00+08:00</updated><author><name>Seyna</name></author><id>tag:seyna.github.com,2012-12-15:2012/12/hello-code.html</id><summary type="html">&lt;p&gt;A block of text
+這是一篇&lt;a href="http://seyna.github.com/2012/12/hello-world.html"&gt;Hello World&lt;/a&gt;
+這是一篇[Hello World]&amp;lt;|filename|/2012/12/hello-world.md&amp;gt;&lt;/p&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span class="x"&gt;// some annotation&lt;/span&gt;
+&lt;span class="cp"&gt;&amp;lt;?php&lt;/span&gt; &lt;span class="k"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$variable&lt;/span&gt; &lt;span class="cp"&gt;?&amp;gt;&lt;/span&gt;&lt;span class="x"&gt;&lt;/span&gt;
+&lt;span class="cp"&gt;&amp;lt;?php&lt;/span&gt; &lt;span class="nb"&gt;var_dump&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;$sth&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="cp"&gt;?&amp;gt;&lt;/span&gt;&lt;span class="x"&gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="blogging"></category><category term="test"></category></entry></feed>
