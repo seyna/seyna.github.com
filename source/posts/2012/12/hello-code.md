@@ -38,6 +38,8 @@ you've got to put paragraph tags in your blockquotes:
 自動連結：
 <http://seyna.github.com/>
 
+<img src="./images/seyna.png" width="180px" align="middle" />
+
 `printf()`
 `var index=5`
 
