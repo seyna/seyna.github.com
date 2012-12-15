@@ -38,6 +38,12 @@ REVERSE_ARCHIVE_ORDER = True
 
 
 # =================
+# Tuples (Title, URL) to appear
+# =================
+SOCIAL= (('twitter', "http://twitter.com/closetu"),
+         ('github' , "http://github.com/seyna"),)
+
+# =================
 # Theming
 # =================
 THEME = 'notmyidea'
