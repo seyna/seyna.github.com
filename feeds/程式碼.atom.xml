@@ -18,7 +18,7 @@ line2&lt;/p&gt;
 
 
 &lt;p&gt;What I look like:
-&lt;img alt="Seyna" src="./images/seyna.png" title="Seyna's portrait" /&gt;&lt;/p&gt;
+&lt;img alt="Seyna" src="http://seyna.github.com/images/seyna.png" title="Seyna's portrait" /&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;If you want your page to validate under XHTML 1.0 Strict,
 you've got to put paragraph tags in your blockquotes:&lt;/p&gt;

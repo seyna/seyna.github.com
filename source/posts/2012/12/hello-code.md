@@ -21,7 +21,7 @@ line2
 
 What I look like:
 ![Seyna][1]
-[1]: ./images/seyna.png "Seyna's portrait"
+[1]: http://seyna.github.com/images/seyna.png "Seyna's portrait"
 
 ***
 
