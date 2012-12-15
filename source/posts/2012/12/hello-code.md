@@ -37,3 +37,9 @@ you've got to put paragraph tags in your blockquotes:
 
 自動連結：
 <http://seyna.github.com/>
+
+`printf()`
+`var index=5`
+
+*嗨，世界*
+**嗨，世界**
