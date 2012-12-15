@@ -13,4 +13,4 @@ A block of text
     <?php var_dump($sth) ?>
 
 What I look like:
-![Seyna portrait](./images/seyna.png)
+<img src="./images/seyna.png" height="180px" title="seyna" />
