@@ -17,10 +17,8 @@ Tags: About
 
 爺爺的辭世則促使了我及早立下決定，要將時間投注在自己真心喜歡的事物上。
 
-
 於是我在 29 歲的時候進入了職場，成為了一位網路工程師。讓網際網路變成一個更美麗的空間，創造出更多會讓人震攝感動的作品，是我現在的志向。
 
-
-<img src="./images/seyna.png" width="180px" style="margin:auto;display:block;" />
+<img src="./images/seyna.png" width="100px" style="margin:auto;display:block;" />
 
 Last updated: 2012/12/16
