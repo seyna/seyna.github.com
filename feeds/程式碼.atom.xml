@@ -32,7 +32,7 @@ you've got to put paragraph tags in your blockquotes:&lt;/p&gt;
 &lt;h3&gt;This is h3&lt;/h3&gt;
 &lt;p&gt;自動連結：
 &lt;a href="http://seyna.github.com/"&gt;http://seyna.github.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="./images/seyna.png" width="180px" align="center" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./images/seyna.png" width="180px" style="margin:auto;display:block;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;printf()&lt;/code&gt;
 &lt;code&gt;var index=5&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;嗨，世界&lt;/em&gt;&lt;br&gt;
