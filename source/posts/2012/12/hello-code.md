@@ -41,5 +41,5 @@ you've got to put paragraph tags in your blockquotes:
 `printf()`
 `var index=5`
 
-*嗨，世界*
+*嗨，世界*<br>
 **嗨，世界**
