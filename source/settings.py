@@ -42,7 +42,7 @@ REVERSE_ARCHIVE_ORDER = True
 # =================
 THEME = 'notmyidea'
 
-DISQUS_SITENAME = 'seynacom'
+DISQUS_SITENAME = 'seynasblog'
 FLATTR = True
 GITHUB_URL = 'http://github.com/seyna/seyna.github.com'
 MENUITEMS = (
