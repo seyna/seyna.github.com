@@ -3,7 +3,7 @@
 # ===============
 AUTHOR = 'Seyna'
 DEFAULT_CATEGORY = 'blog'
-SITENAME = 'Seyna blog'
+SITENAME = 'Seyna - On the Road to Be a Web Architect'
 SITEURL = 'http://seyna.github.com'
 SITE_URL = SITEURL
 STATIC_PATHS = ['images', ]
@@ -59,3 +59,8 @@ MENUITEMS = (
     ('Archives', '{0}/archives.html'.format(SITEURL)),
     )
 TWITTER_USERNAME = 'closetu'
+
+# =================
+# What I added (modify default template)
+# =================
+FACEBOOK_LIKE = True
