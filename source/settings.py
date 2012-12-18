@@ -42,8 +42,8 @@ REVERSE_ARCHIVE_ORDER = True
 # =================
 SOCIAL= (('twitter', "http://twitter.com/closetu"),
          ('github' , "http://github.com/seyna"),)
-LINKS = (('smallWrite',    "http://smallwrite.blogspot.tw/"),
-         ('Seyna(tumblr)', "http://seyna.tumblr.com/"),)
+LINKS = (('smallWrite', "http://smallwrite.blogspot.tw/"),
+         ('seyna said', "http://seyna.tumblr.com/"),)
 
 
 # =================
