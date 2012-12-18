@@ -51,6 +51,7 @@ LINKS = (('smallWrite',    "http://smallwrite.blogspot.tw/"),
 # =================
 THEME = 'notmyidea'
 
+GOOGLE_ANALYTICS = 'UA-18732293-7'
 DISQUS_SITENAME = 'seynasblog'
 FLATTR = True
 GITHUB_URL = 'http://github.com/seyna/seyna.github.com'
