@@ -1,4 +1,4 @@
-Date: 2012-12-15
+Date: 2012-10-22
 Title: 摩托車環島 - Day 1
 Category: 旅遊
 Tags: 環島,旅遊
