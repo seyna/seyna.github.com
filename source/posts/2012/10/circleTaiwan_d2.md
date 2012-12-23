@@ -29,7 +29,7 @@ Tags: 環島,旅遊
 
 <img src="https://dl.dropbox.com/u/6099054/Travels/Taiwan/D2_wenli_road.jpg" alt="some text" style="margin:auto;display:block;" />
 
-至於彩虹村，我只能說這裡簡直像是一個扭曲的重力場。很像走進一個關著精神病患的遺世獨立的島。到處的充滿飽滿紅黃色調和圓圈的牆壁，讓我頭暈目眩很想逃離這裡。
+至於彩虹村，我只能說這裡簡直像是一個扭曲的重力場。因為到處充滿飽滿紅黃色調和圓圈的牆壁，讓我有點頭暈目眩，所以沒有停留多久便離開了。
 
 <img src="https://dl.dropbox.com/u/6099054/Travels/Taiwan/D2_rainbow_village.jpg" alt="some text" style="margin:auto;display:block;" />
 
